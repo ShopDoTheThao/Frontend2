@@ -357,7 +357,7 @@ export default function Header() {
                     <div className="container">
                         {/*Logo*/}
                         <Link to="/" className="logo"
-                              style={{backgroundImage: `url("https://iweb.tatthanh.com.vn/pic/3/blog/images/image(1262).png")`}}></Link>
+                              style={{backgroundImage: `url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkfuQRwvf8l20ltmGdfq7NNe0MtIsBPym5A&s")`, width: 120}}></Link>
                         {/*Menu-Nav*/}
                         <div className="user-nav-menu">
 
