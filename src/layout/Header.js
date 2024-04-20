@@ -258,11 +258,11 @@ export default function Header() {
                             <div className="row text-lg-left">
                                 <div className="col-md-6 d-none d-lg-block">
                                     <div className="d-inline-flex align-items-center">
-                                        <a className="text-dark" href="">FAQs</a>
+                                        <Link className="text-dark" to='/'>FAQs</Link>
                                         <span className="text-muted px-2">|</span>
-                                        <a className="text-dark" href="">Help</a>
+                                        <Link className="text-dark" to='/'>Help</Link>
                                         <span className="text-muted px-2">|</span>
-                                        <a className="text-dark" href="">Support</a>
+                                        <Link className="text-dark" to='/'>Support</Link>
                                     </div>
                                 </div>
                                 <div className="col-md-6 text-lg-right">
