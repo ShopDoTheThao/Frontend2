@@ -90,7 +90,7 @@ function NewCouponList() {
                 couponByIdMerchant(merchant.id_merchant).then(r => {
                     setCoupons(r.reverse())  // Reverse the order of the list before setting it
                     setModalDelete(false)
-                    setMessage("Delete product success!!!")
+                    setMessage("Delete coupon success!!!")
                     btn_modal.current.click();
                 })
             } else {
