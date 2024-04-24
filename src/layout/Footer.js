@@ -9,7 +9,7 @@ export default function Footer(){
                             <img className="logo-loship" src="https://iweb.tatthanh.com.vn/pic/3/blog/images/image(1262).png" alt="logo"/>
                             <p>Yummy Joint Stock Company</p>
                             <p></p>
-                            <p><b>Hàm Nghi, Hà Nội, Vietnam</b></p>
+                            <p><b>Ninh Kiều, Cần Thơ, Vietnam</b></p>
 
                             <p>
                                 <a className="terms-and-policies" to="https://loship.vn/quy-che?utm_source=https://loship.vn&utm_medium=footer"
@@ -20,13 +20,13 @@ export default function Footer(){
                                    target="_blank" href="https://loship.vn/chinh-sach-bao-mat/?utm_source=https://loship.vn&utm_medium=footer">Privacy policy </a>
                             </p>
                             <p className="special-info mt-16">
-                                Giấy CNĐKDN: 0313546809 – Ngày cấp: 07/4/2024.
+                                Giấy CNĐKDN: 0313546809 – Ngày cấp: 24/4/2024.
                             </p>
                             <p className="special-info">
-                                Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư TP.HÀ NỘI
+                                Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư TP.Cần Thơ
                             </p>
                             <p className="special-info">
-                                Địa chỉ đăng ký kinh doanh: P. Hàm Nghi, Hà Nội, Vietnam
+                                Địa chỉ đăng ký kinh doanh: Ninh Kiều, Cần Thơ, Vietnam
                             </p>
                             <a href="http://online.gov.vn/Home/WebDetails/43990?AspxAutoDetectCookieSupport=1">
                                 <img src="https://loship.vn/dist/images/logo-bct.png" style={{height:"40px"}} alt="logo"/>

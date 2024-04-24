@@ -52,7 +52,7 @@ function CreateCoupon() {
         console.log(createCoupon)
         saveCoupon(createCoupon).then(r => {
                 if (r === true) {
-                    toast.success("Create product success!!!", {containerId: 'create-coupon'})
+                    toast.success("Create Coupon success!!!", {containerId: 'create-coupon'})
                 } else {
                     toast.error("Action error occurred. Please check again!!!", {containerId: 'create-coupon'})
                 }
