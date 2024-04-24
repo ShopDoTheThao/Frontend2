@@ -258,11 +258,11 @@ export default function Header() {
                             <div className="row text-lg-left">
                                 <div className="col-md-6 d-none d-lg-block">
                                     <div className="d-inline-flex align-items-center">
-                                        <a className="text-dark" href="">FAQs</a>
+                                        <Link className="text-dark" to='/'>FAQs</Link>
                                         <span className="text-muted px-2">|</span>
-                                        <a className="text-dark" href="">Help</a>
+                                        <Link className="text-dark" to='/'>Help</Link>
                                         <span className="text-muted px-2">|</span>
-                                        <a className="text-dark" href="">Support</a>
+                                        <Link className="text-dark" to='/'>Support</Link>
                                     </div>
                                 </div>
                                 <div className="col-md-6 text-lg-right">
@@ -357,7 +357,7 @@ export default function Header() {
                     <div className="container">
                         {/*Logo*/}
                         <Link to="/" className="logo"
-                              style={{backgroundImage: `url("https://iweb.tatthanh.com.vn/pic/3/blog/images/image(1262).png")`}}></Link>
+                              style={{backgroundImage: `url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkfuQRwvf8l20ltmGdfq7NNe0MtIsBPym5A&s")`, width: 120}}></Link>
                         {/*Menu-Nav*/}
                         <div className="user-nav-menu">
 

@@ -113,7 +113,7 @@ function DetailProduct() {
 
                                     <div className="row p-2 bg-white border rounded" style={{height: "400.777778px"}}>
                                         <div className="col-md-3 mt-1">
-                                            <img style={{width: '600px', height: '370px'}}
+                                            <img style={{height: '370px'}}
                                                  src={product.image}  alt={"eroor"}/></div>
                                         <div style={{paddingLeft: '400px'}} className="col-md-7 mt-1">
                                                <h3 className="name-title">{product.name}</h3>
